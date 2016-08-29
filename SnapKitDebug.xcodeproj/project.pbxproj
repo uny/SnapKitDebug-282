@@ -415,6 +415,7 @@
 				BFBAF4251D70652000F0A2D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
